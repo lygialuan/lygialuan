@@ -1,6 +1,7 @@
 ### Lý Gia Luân ---@lygialuan 👋
 
-Hi, I'm Luân, Currently, I'm working at DEARASOFT with position PHP developer. I'm accept to do website projects according to customer requirements, reasonable prices.
+Hi, I'm Luân, Currently, I'm working at DEARASOFT with position PHP developer. I'm accept to do website projects according to requirements, reasonable prices.
+Contact me 👇
 
 ⚡Some website templates : link templates https://sharetheme.vn/
 + https://giavimowari.com/
