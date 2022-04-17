@@ -10,7 +10,6 @@ Hi, I'm Luân, Currently, I'm working at DEARASOFT with position PHP developer. 
 + https://nsvnpaonline.com/ ......
 
 ⚡ Bio
-- 🌱 I’m currently studying Programmer at Ton Duc Thang University - College
 - ⚙️ Frontend(Knowledge): .html, .css, .js, .ajax
 - ⚙️ Backend(Main): php, mysql, firebase, handling api.
 - ⚙️ 2 years of experience in web design and website administration.
