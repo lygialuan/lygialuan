@@ -27,12 +27,12 @@ Hi, I'm Luân, Currently, I'm working at DEARASOFT with position PHP developer. 
 
 📬 Get in Touch
 
-   GitHub: github.com/lygialuan
+  - GitHub: github.com/lygialuan
     
-   E-mail: lygialuan65@gmail.com
+  - E-mail: lygialuan65@gmail.com
     
-   Zalo : 0522 0158 73
+  - Zalo : 0522 0158 73
     
-   Facebook : https://www.facebook.com/luan.ly.1501/
+  - Facebook : https://www.facebook.com/luan.ly.1501/
     
-   Phone : 039 572 0956
+  - Phone : 039 572 0956
