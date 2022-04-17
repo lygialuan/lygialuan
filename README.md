@@ -2,18 +2,16 @@
 
 Hi, I'm Luân, Currently, I'm working at DEARASOFT with position PHP developer. I'm accept to do website projects according to customer requirements, reasonable prices.
 
-⚡Some website templates :
+⚡Some website templates : link templates https://sharetheme.vn/
 + https://giavimowari.com/
 + https://nuskinbisabanget.com/
-+ https://modailygao.com/
 + https://nsvnlive.com/
 + https://vietnguyen.vn/
 + https://skylead.vn/
 + https://willers.com.sg/
 + https://vuagaovn.com/
 + https://nuffam.com/
-+ https://nguyenhungvabanbe.com/
-+ https://vanchuongthanhphohochiminh.vn/nguyen-hung
++ https://vanchuongthanhphohochiminh.vn/
 + https://dongho24h.com/
 + https://baolongpc.vn/
 + https://thuviennuskin.com/
