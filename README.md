@@ -33,4 +33,3 @@ Hi, I'm Luân, Currently, I'm working at DEARASOFT with position PHP developer. 
     Zalo : 0522 0158 73
     Facebook : https://www.facebook.com/luan.ly.1501/
     Phone : 039 572 0956
-
