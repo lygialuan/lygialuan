@@ -32,8 +32,8 @@ Contact me 👇
     
   - E-mail: lygialuan65@gmail.com
     
-  - Zalo : 0522 0158 73
+  - Zalo : 039 572 0956
     
   - Facebook : https://www.facebook.com/luan.ly.1501/
     
-  - Phone : 039 572 0956
+  - Phone : 039 572 0956, 096 663 4646
